@@ -1,3 +1,5 @@
+h2. links
+
 https://gist.github.com/af7e572c2dc973add221#file_2_engine.rdoc
 http://www.themodestrubyist.com/2010/03/05/rails-3-plugins---part-2---writing-an-engine/
 http://coding.smashingmagazine.com/2011/06/23/a-guide-to-starting-your-own-rails-engine-gem/
@@ -5,3 +7,9 @@ https://github.com/krschacht/rails_3_engine_demo
 http://nicksda.apotomo.de/2010/10/testing-your-rails-3-engine-sitting-in-a-gem/
 http://strd6.com/2009/04/cant-dup-nilclass-maybe-try-unloadable/
 http://apidock.com/rails/ActiveSupport/Dependencies/Loadable/unloadable
+
+h2. installation
+
+# os x
+brew install -f imagemagick --disable-openmp
+

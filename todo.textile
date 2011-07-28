@@ -1,0 +1,3 @@
+* config für wo speichern tmpdir, welches tag zum suchen
+* initializer für tmpdir
+* rake task zum cleanen des tmpdir
