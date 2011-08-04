@@ -1,5 +1,8 @@
 h2. links
 
+http://railscasts.com/episodes/277-mountable-engines
+https://github.com/josevalim/enginex
+http://guides.rubyonrails.org/plugins.html
 https://gist.github.com/af7e572c2dc973add221#file_2_engine.rdoc
 http://www.themodestrubyist.com/2010/03/05/rails-3-plugins---part-2---writing-an-engine/
 http://coding.smashingmagazine.com/2011/06/23/a-guide-to-starting-your-own-rails-engine-gem/
